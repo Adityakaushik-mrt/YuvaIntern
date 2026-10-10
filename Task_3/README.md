@@ -40,4 +40,4 @@ This project delivers an end-to-end Exploratory Data Analysis (EDA) on retail fi
 │   └── Financial.ipynb       # Jupyter notebook containing end-to-end data pipeline & plots
 ├── visuals/                      # Exported visualization figures
 ├── README.md                     # Project documentation
-└── requirements.txt              # Environment dependencies
+
